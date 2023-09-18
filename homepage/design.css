@@ -65,11 +65,10 @@ button {
     background-color: deepskyblue;
     color: whitesmoke;
 position:relative;
-left: 475px;
+left: 500px;
 border-radius: 50%;}
 
-#butt { height: 70px;
-align-items: center;}
+#butt { height: 70px;}
 
 #go 
  {margin-left: 0px;
